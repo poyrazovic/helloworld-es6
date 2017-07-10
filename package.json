@@ -2,7 +2,7 @@
   "name": "helloworld-es6",
   "version": "1.0.0",
   "description": "Boilerplate for an ES6 node package/cli",
-  "main": "dist",
+  "main": "dist/helloworld.js",
   "bin": {
     "helloworld-es6": "dist/bin/helloworld.js"
   },

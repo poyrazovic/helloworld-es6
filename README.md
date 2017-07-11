@@ -1,4 +1,4 @@
-# helloworld-es6 [![npm version](https://badge.fury.io/js/helloworld-es6.svg)](https://badge.fury.io/js/helloworld-es6)
+# helloworld-es6 [![npm version](https://www.npmjs.com/package/helloworld-es6)](https://badge.fury.io/js/helloworld-es6)
 
 This is a simple example module that returns a "Hello world" greeting in 5 different 
 languages. To be used as a boilerplate for quickly getting started with developing a 

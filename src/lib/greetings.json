@@ -1,7 +1,8 @@
 {
   "english": "Hello World",
   "spanish": "Hola Mundo",
-  "french":  "Bonjour le monde",
-  "swedish":  "Hej världen",
-  "chinese": "你好，世界"
+  "french" : "Bonjour le monde",
+  "swedish": "Hej världen",
+  "chinese": "你好，世界",
+  "turkish": "Merhaba Dünya"
 }

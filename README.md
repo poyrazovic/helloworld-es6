@@ -1,9 +1,10 @@
 # helloworld-es6 [![npm version](https://badge.fury.io/js/helloworld-es6.svg)](https://www.npmjs.com/package/helloworld-es6)
 
-This is a simple example module that returns a "Hello world" greeting in 5 different 
-languages. To be used as a boilerplate for quickly getting started with developing a 
+This is a simple example module that returns a "Hello world" greeting in 6 different
+languages. To be used as a boilerplate for quickly getting started with developing a
 node package/cli using ES6 & babel.
 
+> English, Spanish, French, Swedish, Chinese, Turkish
 
 Installation
 -------
@@ -23,9 +24,9 @@ console.log(helloWorld('french')); // => "Bonjour le monde"
 
 ```
 
-##### As cli: 
+##### As cli:
 ```sh
-helloworld-es6 
+helloworld-es6
 helloworld-es6 --language swedish
 ```
 
